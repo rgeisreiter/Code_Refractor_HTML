@@ -1,3 +1,0 @@
-<Code_Refractor_HTML>
-
-## In this project, I was tasked with a cpouple of different things. To begin, I needed to clean up the CSS document that I was provided. Next, I needed to look over the HTML code that I was given and put it in much more semantic code. Finally I needed to make this website/code much more accesible for those with disabilities. This project solved many problems for my tech lead, as I cleaned up their code and made it more accesible for a lager group of people. Throughhout this process, I learned how to efficiently clean up CSS code, make HTML code more semantic, and finally I learned what is required to make a website and code more accesable to those with disabilities.
